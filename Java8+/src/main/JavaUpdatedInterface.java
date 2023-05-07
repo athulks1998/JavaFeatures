@@ -1,5 +1,10 @@
 package main;
 
+/**
+ * @author Athul K S
+ * All the methods currently used in an interface 
+ *
+ */
 public interface JavaUpdatedInterface {
 
     // Private method in interface
